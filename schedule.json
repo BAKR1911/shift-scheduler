@@ -1,0 +1,190 @@
+{
+  "entries": [
+    {
+      "date": "2026-04-11",
+      "dayName": "Saturday",
+      "dayType": "Saturday",
+      "empIdx": 2,
+      "empName": "Mohamed Rashwan",
+      "empHrid": "147956",
+      "start": "01:00 PM",
+      "end": "10:00 PM",
+      "hours": 9,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-12",
+      "dayName": "Sunday",
+      "dayType": "Weekday",
+      "empIdx": 3,
+      "empName": "Mahmoud Rabia",
+      "empHrid": "102054",
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-13",
+      "dayName": "Monday",
+      "dayType": "Weekday",
+      "empIdx": 0,
+      "empName": "Islam Rabia",
+      "empHrid": "102843",
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-14",
+      "dayName": "Tuesday",
+      "dayType": "Weekday",
+      "empIdx": 4,
+      "empName": "Mohamed Aahrar",
+      "empHrid": "137254",
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-15",
+      "dayName": "Wednesday",
+      "dayType": "Weekday",
+      "empIdx": 2,
+      "empName": "Mohamed Rashwan",
+      "empHrid": "147956",
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-16",
+      "dayName": "Thursday",
+      "dayType": "Thursday",
+      "empIdx": 7,
+      "empName": "Ahmed Hisham",
+      "empHrid": "92458",
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    },
+    {
+      "date": "2026-04-17",
+      "dayName": "Friday",
+      "dayType": "Friday",
+      "empIdx": 3,
+      "empName": "Mahmoud Rabia",
+      "empHrid": "102054",
+      "start": "01:00 PM",
+      "end": "10:00 PM",
+      "hours": 9,
+      "offPerson": "Ahmed Khyr",
+      "offPersonIdx": 6,
+      "offPersonHrid": "113319",
+      "weekNum": 2,
+      "isHoliday": false,
+      "isManual": false
+    }
+  ],
+  "cumulativeStats": {
+    "0": {
+      "totalHours": 20,
+      "totalDays": 4,
+      "weekendDays": 0,
+      "saturdays": 0,
+      "fridays": 0,
+      "offWeeks": 1
+    },
+    "1": {
+      "totalHours": 20,
+      "totalDays": 4,
+      "weekendDays": 0,
+      "saturdays": 0,
+      "fridays": 0,
+      "offWeeks": 0
+    },
+    "2": {
+      "totalHours": 24,
+      "totalDays": 4,
+      "weekendDays": 1,
+      "saturdays": 1,
+      "fridays": 0,
+      "offWeeks": 1
+    },
+    "3": {
+      "totalHours": 24,
+      "totalDays": 4,
+      "weekendDays": 1,
+      "saturdays": 0,
+      "fridays": 1,
+      "offWeeks": 0
+    },
+    "4": {
+      "totalHours": 23,
+      "totalDays": 3,
+      "weekendDays": 2,
+      "saturdays": 2,
+      "fridays": 0,
+      "offWeeks": 1
+    },
+    "5": {
+      "totalHours": 23,
+      "totalDays": 3,
+      "weekendDays": 2,
+      "saturdays": 0,
+      "fridays": 2,
+      "offWeeks": 1
+    },
+    "6": {
+      "totalHours": 24,
+      "totalDays": 4,
+      "weekendDays": 1,
+      "saturdays": 1,
+      "fridays": 0,
+      "offWeeks": 1
+    },
+    "7": {
+      "totalHours": 24,
+      "totalDays": 4,
+      "weekendDays": 1,
+      "saturdays": 0,
+      "fridays": 1,
+      "offWeeks": 0
+    }
+  },
+  "generatedMonths": []
+}

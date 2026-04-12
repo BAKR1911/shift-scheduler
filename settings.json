@@ -1,0 +1,54 @@
+{
+  "shifts": {
+    "Weekday": {
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5
+    },
+    "Thursday": {
+      "start": "05:00 PM",
+      "end": "10:00 PM",
+      "hours": 5
+    },
+    "Friday": {
+      "start": "01:00 PM",
+      "end": "10:00 PM",
+      "hours": 9
+    },
+    "Saturday": {
+      "start": "01:00 PM",
+      "end": "10:00 PM",
+      "hours": 9
+    },
+    "Holiday": {
+      "start": "10:00 AM",
+      "end": "10:00 PM",
+      "hours": 12
+    }
+  },
+  "summerTime": false,
+  "summerShifts": {
+    "Weekday": {
+      "start": "05:00 PM",
+      "end": "11:00 PM",
+      "hours": 6
+    },
+    "Thursday": {
+      "start": "05:00 PM",
+      "end": "11:00 PM",
+      "hours": 6
+    },
+    "Friday": {
+      "start": "01:00 PM",
+      "end": "11:00 PM",
+      "hours": 10
+    },
+    "Saturday": {
+      "start": "01:00 PM",
+      "end": "11:00 PM",
+      "hours": 10
+    }
+  },
+  "weekStart": "Saturday",
+  "holidays": []
+}
